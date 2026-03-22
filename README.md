@@ -4,7 +4,7 @@
 This project is a handheld calculator implemented on STM32. It uses a keypad for user input and an LCD to display numbers and calculation results. The project focuses on embedded input handling, processing logic, and display control.
 
 ## Features
-- Keypad-based number and operator input
+- Keypad-based number and operator input.
 - Basic arithmetic operations
 - LCD display for input and result output
 - Embedded firmware implementation on STM32
